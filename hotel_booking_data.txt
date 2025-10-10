@@ -1,0 +1,11 @@
+Booking_ID,Customer_Name,Check_in_Date,Check_out_Date,Room_Type,Guests,Payment_Status,Booking_Status
+B001,John Smith,2025-08-25,2025-08-28,Single,1,Paid,Confirmed
+B002,Sarah Johnson,2025-08-26,2025-08-30,Double,2,Pending,Confirmed
+B003,Michael Lee,2025-08-27,2025-08-29,Suite,3,Paid,Confirmed
+B004,Emma Davis,2025-08-28,2025-08-31,Double,2,Paid,Checked-out
+B005,Daniel Wilson,2025-08-29,2025-09-02,Single,1,Cancelled,Cancelled
+B006,Linda Brown,2025-08-30,2025-09-01,Suite,4,Paid,Confirmed
+B007,James Miller,2025-08-31,2025-09-03,Double,2,Pending,Confirmed
+B008,Olivia Taylor,2025-09-01,2025-09-05,Single,1,Paid,Confirmed
+B009,Ethan Martin,2025-09-02,2025-09-06,Suite,5,Paid,Confirmed
+B010,Sophia Anderson,2025-09-03,2025-09-04,Double,2,Paid,Checked-out
